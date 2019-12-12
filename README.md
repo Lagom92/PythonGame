@@ -18,10 +18,18 @@ Coding Game with python
 
 파이썬에 대해 더 공부를 해보자!
 
+<br/>
 
 ### Install
+```
 
-'''
 pip install pygame
 pip install Pillow
-'''
+
+```
+<br/>
+
+### Directory
+#### Cave
+- 간단한 가로 스크롤 게임
+
